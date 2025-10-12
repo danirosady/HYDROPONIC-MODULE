@@ -5,8 +5,8 @@
 const char* WIFI_SSID     = "Sekawan 4G_EXT";
 const char* WIFI_PASSWORD = "sekawan04";
 
-const char* BOT_TOKEN = "6020037136:AAGGK5fgJ38zUhmBiP0-_Ltq8wtVzIqkp-Y";  // Ganti dengan token bot Anda
-const int64_t CHAT_ID  = 127491210;  // Ganti dengan chat ID Anda (bisa didapat dari Telegram)
+const char* BOT_TOKEN = "6020037136:AAGGK5fgJ38zUhmBiP0-Y";  // Ganti dengan token bot Anda
+const int64_t CHAT_ID  = 12567890:  // Ganti dengan chat ID Anda (bisa didapat dari Telegram)
 
 /*************** Sensor Pinout ***************/
 // pH sensor (analog)
